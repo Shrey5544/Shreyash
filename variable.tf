@@ -31,5 +31,5 @@ variable "allowed_ports" {
 variable "security_group_name" {
   description = "Name of the security group to attach to the EC2 instance"
   type        = string
-  default     = "ec2-security-group"
+  default     = "ec2-secg-GITChange"
 }
